@@ -1,0 +1,2 @@
+# estructura
+deber progra
